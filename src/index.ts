@@ -1,4 +1,4 @@
-import {
+Simport {
   Client,
   GatewayIntentBits,
   Partials,
@@ -33,7 +33,7 @@ const TOKEN = process.env.DISCORD_BOT_TOKEN;
 const GUILD_ID = process.env.DISCORD_GUILD_ID;
 const VERIFIED_ROLE_ID = process.env.DISCORD_VERIFIED_ROLE_ID;
 
-if (!TOKEN || !GUILD_ID || !VERIFIED_ROLE_ID) {
+if ( OTEwNzYzNDUyMTUzMzY0NDkwGK6urgBctGucjXBIxm9UGLSRtkfdgfBuEYQ6f8lS9g || 893882601784377386 || !VERIFIED_ROLE_ID) {
   console.error(
     "Missing required env: DISCORD_BOT_TOKEN, DISCORD_GUILD_ID, DISCORD_VERIFIED_ROLE_ID",
   );
